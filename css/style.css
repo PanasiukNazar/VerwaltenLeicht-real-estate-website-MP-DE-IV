@@ -6379,6 +6379,13 @@ h6 {
     background-size: cover;
 }
 
+.breadcrumb_bg_6 {
+    background-image: url('../img/breadcrumb-6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* line 5, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_breadcrumb.scss */
 .breadcrumb {
     position: relative;
